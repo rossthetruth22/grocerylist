@@ -1,6 +1,6 @@
 # grocerylist
 
-Simple app to save list of items used for shopping and/or other purposes
+Simple app to save lists of items used for shopping and/or other purposes
 
 <img width="312" alt="screen shot 2018-10-22 at 9 25 15 pm" src="https://user-images.githubusercontent.com/31022402/47470149-89373200-d7d2-11e8-8768-5c934f41f06e.png">
 
